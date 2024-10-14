@@ -1,0 +1,43 @@
+2024-10-09 14:43:49,680 :INFO : test_fill_loginpopup :hello
+2024-10-09 14:44:45,489 :INFO : test_fill_loginpopup :hello
+2024-10-09 14:45:53,941 :INFO : test_fill_loginpopup :hello
+2024-10-09 14:48:58,642 :INFO : test_fill_loginpopup :hello
+2024-10-09 14:50:24,389 :INFO : test_fill_loginpopup :hello
+2024-10-09 14:51:47,233 :INFO : test_fill_loginpopup :hello
+2024-10-09 14:53:44,449 :INFO : test_fill_loginpopup :hello
+2024-10-09 14:56:02,405 :INFO : test_fill_loginpopup :hello
+2024-10-09 14:58:22,784 :INFO : test_fill_loginpopup :hello
+2024-10-09 16:09:17,868 :INFO : test_BanToPune :msg displayed
+2024-10-09 16:09:18,358 :INFO : test_BanToPune :None
+2024-10-09 16:09:57,870 :INFO : test_fill_loginpopup :hello
+2024-10-09 16:13:43,916 :INFO : test_BanToPune :msg displayed
+2024-10-09 16:13:44,393 :INFO : test_BanToPune :None
+2024-10-09 16:14:23,469 :INFO : test_fill_loginpopup :hello
+2024-10-09 16:18:52,939 :INFO : test_BanToPune :msg displayed
+2024-10-09 16:18:53,471 :INFO : test_BanToPune :None
+2024-10-09 16:19:34,114 :INFO : test_fill_loginpopup :hello
+2024-10-10 15:22:11,965 :INFO : test_BanToPune :msg displayed
+2024-10-10 15:22:13,766 :INFO : test_BanToPune :None
+2024-10-10 15:23:29,977 :INFO : test_fill_loginpopup :hello
+2024-10-10 15:31:53,189 :INFO : test_fill_loginpopup :hello
+2024-10-10 15:38:54,907 :INFO : test_BanToPune :msg displayed
+2024-10-10 15:38:56,349 :INFO : test_BanToPune :None
+2024-10-10 15:39:45,767 :INFO : test_fill_loginpopup :hello
+2024-10-11 14:19:13,527 :INFO : test_BanToPune :msg displayed
+2024-10-11 14:19:14,391 :INFO : test_BanToPune :None
+2024-10-11 14:19:53,925 :INFO : test_fill_loginpopup :hello
+2024-10-11 14:24:10,264 :INFO : test_BanToPune :msg displayed
+2024-10-11 14:24:10,672 :INFO : test_BanToPune :None
+2024-10-11 14:24:49,048 :INFO : test_fill_loginpopup :hello
+2024-10-11 14:43:28,833 :INFO : test_BanToPune :msg displayed
+2024-10-11 14:43:31,578 :INFO : test_BanToPune :None
+2024-10-11 14:44:16,902 :INFO : test_fill_loginpopup :hello
+2024-10-11 15:49:27,455 :INFO : test_BanToPune :msg displayed
+2024-10-11 15:49:27,901 :INFO : test_BanToPune :None
+2024-10-11 15:50:06,204 :INFO : test_fill_loginpopup :hello
+2024-10-11 15:53:36,574 :INFO : test_BanToPune :msg displayed
+2024-10-11 15:53:37,279 :INFO : test_BanToPune :None
+2024-10-11 15:54:15,379 :INFO : test_fill_loginpopup :hello
+2024-10-14 14:26:42,660 :INFO : test_BanToPune :msg displayed
+2024-10-14 14:26:43,581 :INFO : test_BanToPune :None
+2024-10-14 14:27:22,793 :INFO : test_fill_loginpopup :hello
