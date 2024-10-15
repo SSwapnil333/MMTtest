@@ -149,7 +149,9 @@ class Test_MakeMyTrip(BaseClass):
         self.driver.get_screenshot_as_file("fifth.png")
 
         # self.driver.find_element(By.XPATH,"//*[@alt='MakeMyTrip']").click()
-
+    def test_GitDemo(self):
+        print("Hello user")
+        print("hello again")
 
 
 
