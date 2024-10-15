@@ -153,6 +153,10 @@ class Test_MakeMyTrip(BaseClass):
         print("Hello user")
         print("hello again")
 
+    def test_changeByMaster(self):
+        print("Hello user")
+        print("hello again")
+
 
 
 
