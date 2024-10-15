@@ -157,6 +157,9 @@ class Test_MakeMyTrip(BaseClass):
         print("Hello user")
         print("hello again")
 
+    def test_Branching(self):
+        print("Hello user")
+        print("hello again")
 
 
 
